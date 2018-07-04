@@ -1300,7 +1300,7 @@ button,
   position: fixed;
   text-align: right;
   top: 0;
-  width: 375px; }
+  width: 275px; }
   #header .top {
     -moz-flex-grow: 1;
     -webkit-flex-grow: 1;
@@ -1382,7 +1382,7 @@ button,
 
 /* Footer */
 #footer {
-  margin-left: 375px;
+  margin-left: 275px;
   text-align: center;
   background-color: #dce3e2;
   padding: 3em 0 4em 0;
@@ -1404,7 +1404,7 @@ button,
 
 /* Main */
 #main {
-  margin-left: 375px; }
+  margin-left: 275px; }
   #main > section {
     margin: 0;
     overflow: hidden;
@@ -1446,13 +1446,13 @@ button,
     font-size: 17pt; }
   /* Header */
   #header {
-    width: 300px; }
+    width: 275px; }
   /* Footer */
   #footer {
-    margin-left: 300px; }
+    margin-left: 275px; }
   /* Main */
   #main {
-    margin-left: 300px; } }
+    margin-left: 275px; } }
 
 /* Normal */
 @media screen and (min-width: 961px) and (max-width: 1620px) {
